@@ -33,17 +33,21 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-# 📊 GitHub Stats
+# 🪄 Featured
+<div align="center" style="margin: 20px 0;">
+  <a href="https://public.tableau.com/app/profile/linh.nguyen1222/viz/Indices_BH_Project/HoldingMarketIndexReturn" target="_blank">
+    <img src="https://github.com/Hoanglinh1201/hoanglinh1201/blob/main/assets/gallery_tableau.png" width="15%" alt="Holding Market Index Return Tableau Dashboard">
+  </a>
+  <p><strong>Holding Market Index Return</strong><br><em>Interactive Tableau dashboard analyzing portfolio index returns over time.</em></p>
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=Hoanglinh1201&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=true)  
+# 🧑‍💻 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=Hoanglinh1201&theme=shadow_blue&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoanglinh1201&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
+![](https://github-profile-trophy.vercel.app/?username=Hoanglinh1201&theme=flat&no-frame=true&no-bg=false&margin-w=4&rank=S,AAA)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Hoanglinh1201&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 📝 Featured
-<img src="https://github.com/Hoanglinh1201/hoanglinh1201/blob/main/assets/gallery_tableau.png" width="15%"></img>
 
-<!-- Proudly enhanced by GPRM (https://gprm.itsvg.in) -->
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
