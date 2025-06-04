@@ -1,8 +1,8 @@
 # 🧙 About Me
 🎨 Tinkering at **Wolt** as a Data/BI Engineer  
-🌟 Passionate about analytic engineering, business intelligence, and data platform development
-🧩 Specialize in scalable analytics platforms, from data modeling to BI delivery
-🌱 Brewing AI at night — ML/LLMs & deep learning projects  
+🌟 Passionate about analytic engineering, business intelligence, and data platform development  
+🧩 Specialize in scalable analytics platforms, from data modeling to BI delivery  
+🌱 Brewing AI at night — ML/LLMs & deep learning projects
 
 # 💻 Tools
 
@@ -34,20 +34,14 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 # 🪄 Featured
-<div align="center" style="margin: 20px 0;">
+<div style="margin: 20px 0;">
   <a href="https://public.tableau.com/app/profile/linh.nguyen1222/viz/Indices_BH_Project/HoldingMarketIndexReturn" target="_blank">
-    <img src="https://github.com/Hoanglinh1201/hoanglinh1201/blob/main/assets/gallery_tableau.png" width="15%" alt="Holding Market Index Return Tableau Dashboard">
+    <img src="https://github.com/Hoanglinh1201/hoanglinh1201/blob/main/assets/gallery_tableau.png" width="40%" alt="Holding Market Index Return Tableau Dashboard">
   </a>
-  <p><strong>Holding Market Index Return</strong><br><em>Interactive Tableau dashboard analyzing portfolio index returns over time.</em></p>
+  <p><em>Tableau Dashboard Showcase</em></p>
 </div>
 
-# 🧑‍💻 GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=Hoanglinh1201&theme=shadow_blue&hide_border=true)  
 ![](https://github-profile-trophy.vercel.app/?username=Hoanglinh1201&theme=flat&no-frame=true&no-bg=false&margin-w=4&rank=S,AAA)
----
-
-[![](https://visitcount.itsvg.in/api?id=Hoanglinh1201&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
