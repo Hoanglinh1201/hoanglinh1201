@@ -33,14 +33,15 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-# 🪄 Featured
-<div style="margin: 20px 0;">
+# 🏆 Featured
+<div align="center" style="margin: 20px 0;">
   <a href="https://public.tableau.com/app/profile/linh.nguyen1222/viz/Indices_BH_Project/HoldingMarketIndexReturn" target="_blank">
     <img src="https://github.com/Hoanglinh1201/hoanglinh1201/blob/main/assets/gallery_tableau.png" width="40%" alt="Holding Market Index Return Tableau Dashboard">
   </a>
   <p><em>Tableau Dashboard Showcase</em></p>
 </div>
 
+## ✍️ GitHub Stats
 ![](https://github-profile-trophy.vercel.app/?username=Hoanglinh1201&theme=flat&no-frame=true&no-bg=false&margin-w=4&rank=S,AAA)
 
 
